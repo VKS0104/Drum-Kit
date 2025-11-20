@@ -12,7 +12,7 @@ for (let i = 0; i < numberOfButtons; i++) {
 }
 
 document.addEventListener("keypress", function(event){
-    //play audio
+    //play audio1
     //show animation
     makeSound(event.key);
 
